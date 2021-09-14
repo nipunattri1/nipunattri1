@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+python3```
 var  Nipun_Attri = {
   "technoligies":["flutter","dart","python","c++"],
   "doing": "preperation for ioi",
@@ -12,4 +12,4 @@ var  Nipun_Attri = {
   "fun-fact" : "nobody likes funfacts but still reads them"
   
 };
-``` python
+```
