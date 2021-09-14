@@ -1,5 +1,5 @@
 ### Hi there 👋
-python3```
+```c++
 var  Nipun_Attri = {
   "technoligies":["flutter","dart","python","c++"],
   "doing": "preperation for ioi",
