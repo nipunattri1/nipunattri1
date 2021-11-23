@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [sociio](https://github.com/hybriddevs/sociio)
 
-- 🌱 I’m currently learning **competitive programming , C++**
+- 🌱 I’m currently learning **react native**
 
 - 🤝 I’m looking for help with [OS](https://github.com/nipunattri1/OS)
 
