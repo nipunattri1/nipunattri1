@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunattri1" alt="nipunattri1" /></a> </p>
 
-- 🔭 I’m currently working on [sociio](https://github.com/hybriddevs/sociio)
+- 🔭 I’m currently working on Nothing Special...
 
 - 🌱 I’m currently learning **react native**
 
-- 🤝 I’m looking for help with [OS](https://github.com/nipunattri1/OS)
+- 🤝 I’m looking for help with UIS
 
-- 💬 Ask me about **flutter, dart , DSA**
+- 💬 Ask me about **flutter, dart , DSA, react, tailwind**
 
 - 📫 How to reach me **nipun.attri1234@gmail.com**
 
