@@ -1,34 +1,25 @@
-<h1 align="center">Hi 👋, I'm Nipun Attri</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 💫About Me :
+🔭 i am currently working on Teacher Management Software for MMSW zrk
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nipunattri1&label=Profile%20views&color=0e75b6&style=flat" alt="nipunattri1" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunattri1" alt="nipunattri1" /></a> </p>
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SWzq4pfF69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-attri-1a2138208) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nipun.attri1234) 
 
-- 🔭 I’m currently working on Nothing Special...
+# 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=nipunattri1&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nipunattri1&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunattri1&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **react native**
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nipunattri1&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-- 🤝 I’m looking for help with UIS
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-- 💬 Ask me about **flutter, dart , DSA, react, tailwind**
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- 📫 How to reach me **nipun.attri1234@gmail.com**
-
-- ⚡ Fun fact **I think i would like to talk to you**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/nipun attri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun attri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nipun.attri12345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nipun.attri12345" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nipun.attri1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="nipun.attri1234" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipunattri1&show_icons=true&locale=en&layout=compact" alt="nipunattri1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipunattri1&show_icons=true&locale=en" alt="nipunattri1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunattri1&" alt="nipunattri1" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=nipunattri1&icon=0&color=0)](https://visitcount.itsvg.in)
