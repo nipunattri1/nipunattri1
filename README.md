@@ -1,5 +1,10 @@
 # 💫About Me :
-🔭 i am currently working on Teacher Management Software for MMSW zrk
+Hey, I am a class 10th student & a Flutter Deveoper
+Learing new stuff is what my mind like & I try my best till the concept strikes.
+
+🔭 **BTW**
+
+i am currently working on Teacher Management Software for MMSW zrk
 
 
 ## 🌐Socials
